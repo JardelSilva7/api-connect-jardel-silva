@@ -19,5 +19,5 @@ A persistência dos dados é realizada provisoriamente por meio de um array em m
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone [URL_DO_REPOSITORIO](https://github.com/JardelSilva7/api-connect-jardel-silva.git)
 cd api-connect-jardel-silva
